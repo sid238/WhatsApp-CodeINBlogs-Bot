@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-gpt",
+  "name": "your bot name",
   "version": "1.0.0",
   "description": "WhatsApp Bot OpenAI ChatGPT Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -85,22 +85,15 @@
     "querystring": "^0.2.1",
     "request": "^2.88.2",
     "safe-eval": "^0.4.1",
-    "spotifydl-x": "^0.3.5",
     "stream": "^0.0.2",
     "translate": "^2.0.2",
     "translate-google": "^1.5.0",
     "translate-google-api": "^1.0.4",
-    "truecallerjs": "^2.2.0",
     "url": "^0.11.2",
     "url-parse": "^1.5.10",
     "util": "^0.12.4",
     "uuid": "^9.0.1",
-    "vm": "^0.1.0",
-    "youtube-yts": "^2.0.0",
-    "youtubedl-core": "^4.11.7",
-    "yt-search": "^2.10.4",
-    "ytdl-core": "^4.11.5",
-    "ytsr": "^3.8.4"
+    "vm": "^0.1.0"
   },
   "directories": {
     "lib": "lib",
